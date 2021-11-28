@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BlockingThreadExample</string>
+    <string name="how_long_want_to_wait">How long want to wait?</string>
+    <string name="run_and_block_ui">Run and Block UI</string>
+    <string name="run_without_blocking">Run without Blocking</string>
+    <string name="let_s_start_count">Let\'s Start Count</string>
+</resources>
